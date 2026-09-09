@@ -6,8 +6,8 @@
 // - anon public / publishable key → SUPABASE_ANON_KEY
 
 window.HODULOG_CONFIG = {
-  SUPABASE_URL: 'https://YOUR-PROJECT-REF.supabase.co',
-  SUPABASE_ANON_KEY: 'YOUR-ANON-PUBLIC-KEY',
+  SUPABASE_URL: 'https://uwxgcqhhkfmtqqoihsdi.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_ITpiQmUejZZxbHVmqP9waQ_2-wYMnRY',
 
   // 사진을 저장할 Storage 버킷 이름 (supabase-setup.sql 에서 만드는 이름과 반드시 일치해야 함)
   STORAGE_BUCKET: 'hodulog-photos',
